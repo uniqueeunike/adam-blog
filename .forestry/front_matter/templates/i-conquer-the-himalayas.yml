@@ -16,14 +16,13 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: file
+  name: img
+  label: Img
+  description: Upolad a main image for the post
 - name: description
   label: Description
   type: textarea
-  hidden: false
-  default: ''
-- name: img
-  label: Img
-  type: text
   hidden: false
   default: ''
 - name: tags
