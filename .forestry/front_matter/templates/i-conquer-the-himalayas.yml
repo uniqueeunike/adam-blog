@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/newest-post-1.md
 hide_body: false
 fields:
 - name: layout
